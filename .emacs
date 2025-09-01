@@ -20,8 +20,6 @@
 
 (require 'helm)
 
-(shift-select-mode 1)
-
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 (defun jrh-isearch-region()
